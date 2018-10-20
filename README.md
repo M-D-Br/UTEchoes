@@ -17,6 +17,8 @@ The second requires the PiFm module, which you can install from [here](http://om
 
 Save UTEchoes.py in the same directory to make sure you can use the PiFm module you just downloaded.
 
+The program will loop 3 times (transmitting for ~30 minutes for a full tx). It's easy enough to adjust, however, if you want to do it for longer or shorter periods.
+
 Inspired by [Pirate Radio Throwies](https://makezine.com/projects/pirate-radio-throwies/) and [Mule Tools](mule.tools).
 
 
