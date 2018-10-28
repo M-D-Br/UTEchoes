@@ -57,6 +57,7 @@ while True:
   if confirm == 'y':
    break
 
+tx_input = str("bgn" + tx_input + "end")
 list_input = list(tx_input)
 morsed_list = list()
 
